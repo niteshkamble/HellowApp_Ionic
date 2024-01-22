@@ -1,0 +1,7 @@
+{
+  "name": "HellowApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
